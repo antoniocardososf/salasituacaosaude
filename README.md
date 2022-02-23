@@ -8,7 +8,8 @@ The information system is based on well-known web technologioes like:
 
 - HyperText Markup Language (HTML): the standard markup language for web pages;
 - Cascading Style Sheets (CSS): the standard language used to style HTML documents;
-- Javascript: the world's most popular programming language of the Web;
+- JavaScript: the world's most popular programming language of the Web;
+- Bootstrap: free templates and themes built with Bootstrap 5, MIT licensed, and updated regularly;
 - GitHub Pages: the GitHub's github.io domain that hosts public web pages for users, organizations, and repositories freely. 
 
 # License
