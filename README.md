@@ -2,9 +2,9 @@
 
 Sala de Situação de Saúde is a web-based information system that uses Internet web technologies.
 
-It delivers information and services to users, or other information systems/applications, about the health situation in Campina Grande - Paraíba.
+It delivers information and services to users, or other information systems/applications, about the health situation in Campina Grande - Paraíba - Brazil.
 
-The information system is based on well-known web technologioes like:
+The information system is based on well-known web technologies like:
 
 - HyperText Markup Language (HTML): the standard markup language for web pages;
 - Cascading Style Sheets (CSS): the standard language used to style HTML documents;
@@ -18,6 +18,4 @@ There is no license.
 
 # Environment
 
-The information system is available for public use in this environment (https://antoniocardososf.github.io/salasituacaosaude/).
-
-Click this link to see more information about this information system.
+The information system is available for public use in this environment (https://antoniocardososf.github.io/salasituacaosaude/). Click this link to see more information about this information system.
